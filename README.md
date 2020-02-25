@@ -1,5 +1,4 @@
 ## Twitter 3.3
-The application visualizes all the locations of the year you want on the world map.
 <h2>What map shows?</h2>
     1. The world map<br>
     2. Locations of the friends you follow<br>
