@@ -16,15 +16,12 @@ To activate your virtualenv you have to write:
 ```
 python -m venv venv
 source venv/bin/activate
-
 ```
 
 To run the program:
 
 ```
-
 python flask_app.py
-
 ```
 
 After that you will have a field in your browser:
@@ -39,7 +36,7 @@ To deactivate your virtualenv:
 ```
 deactivate
 ```
- 
+
  <h2>Result</h2>
  You have a map with the locations of some person friends. Also if you press
   the marker you will see the name of each person.
