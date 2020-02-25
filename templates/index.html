@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+
+{% block heading %}
+    Write Twitter Account
+{% endblock %}
+
+{% block body %}
+    <form action="{{ url_for('get_name') }}" method="post">
+        <input type="text" name="name" placeholder="Enter Twitter Name">
+        <button>Submit</button>
+    </form>
+{% endblock %}
